@@ -1,0 +1,54 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 1059 >>
+stream
+BT /F1 15 Tf 40 815 Td (Wellness Progress Report) Tj ET
+BT /F1 15 Tf 40 793 Td () Tj ET
+BT /F1 15 Tf 40 771 Td (Generated at: 2026-06-28 15:31:07) Tj ET
+BT /F1 15 Tf 40 749 Td (Period: Last 1 Month) Tj ET
+BT /F1 15 Tf 40 727 Td () Tj ET
+BT /F1 15 Tf 40 705 Td (Participant) Tj ET
+BT /F1 15 Tf 40 683 Td (Name: test user) Tj ET
+BT /F1 15 Tf 40 661 Td (Email: user1@test.gr) Tj ET
+BT /F1 15 Tf 40 639 Td () Tj ET
+BT /F1 15 Tf 40 617 Td (Program) Tj ET
+BT /F1 15 Tf 40 595 Td (Program: test 1) Tj ET
+BT /F1 15 Tf 40 573 Td (Current Week: 1 of 2) Tj ET
+BT /F1 15 Tf 40 551 Td (Progress: 50%) Tj ET
+BT /F1 15 Tf 40 529 Td (Wellness Score: 10) Tj ET
+BT /F1 15 Tf 40 507 Td (Status: active) Tj ET
+BT /F1 15 Tf 40 485 Td (Start Date: 2026-06-26) Tj ET
+BT /F1 15 Tf 40 463 Td () Tj ET
+BT /F1 15 Tf 40 441 Td (Tasks) Tj ET
+BT /F1 15 Tf 40 419 Td (Completed Tasks: 0) Tj ET
+BT /F1 15 Tf 40 397 Td (Total Tasks: 0) Tj ET
+BT /F1 15 Tf 40 375 Td () Tj ET
+BT /F1 15 Tf 40 353 Td (Recent Reflections) Tj ET
+BT /F1 15 Tf 40 331 Td (No reflections found for this period.) Tj ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1422
+%%EOF
