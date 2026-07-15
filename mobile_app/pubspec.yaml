@@ -1,0 +1,49 @@
+name: test_app2
+description: "Pythagorean Academia mobile application."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+  http: ^1.2.2
+  flutter_secure_storage: ^9.2.2
+  shared_preferences: ^2.2.3
+
+  image_picker: ^1.1.2
+  image_cropper: ^9.0.0
+  cached_network_image: ^3.4.1
+  intl: ^0.20.2
+  google_sign_in: ^6.3.0
+  sign_in_with_apple: ^8.0.0
+  file_picker: ^8.1.7
+  youtube_player_flutter: ^9.1.1
+  audioplayers: ^6.1.0
+
+  # IMPORTANT: pinned without ^ to avoid device_info_plus conflict
+  syncfusion_flutter_pdfviewer: 33.2.13
+  health: ^13.3.1
+
+  dio: ^5.7.0
+  path_provider: ^2.1.5
+  open_filex: ^4.6.0
+  share_plus: ^10.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/logo/logo.png
