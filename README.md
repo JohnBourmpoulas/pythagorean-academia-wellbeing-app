@@ -1,3 +1,10 @@
+## Authors
+
+- John Bourmpoulas
+- Katerina Mitsiou
+
+This project was developed collaboratively as part of an undergraduate thesis at the University of the Aegean.
+
 # Pythagorean Academia Wellbeing App
 
 A prototype mobile wellbeing application developed as part of an undergraduate thesis for the Pythagorean Academy of Sciences and Values – International Center for Stress Science and Health Promotion.
