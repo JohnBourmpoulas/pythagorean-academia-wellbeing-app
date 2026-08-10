@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/30899121/README.md)
 # Pythagorean Academia Wellbeing App
 
 A full-stack prototype wellbeing platform developed as part of an
