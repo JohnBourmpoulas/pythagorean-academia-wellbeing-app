@@ -1,4 +1,4 @@
-# Pythagorean Academia API — PHP/MySQL Backend
+# Pythagorean Academia API - PHP/MySQL Backend
 
 Αυτό είναι πλήρες αρχικό backend για Flutter client/server αρχιτεκτονική.
 
